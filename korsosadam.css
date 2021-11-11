@@ -21,3 +21,8 @@ li{
 .border{
     text-align: center;
 }
+
+a{
+    text-decoration: none;
+    color: red;
+}
